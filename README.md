@@ -10,4 +10,5 @@ For the remaining SQLs, you can run in any order.
 
 The SQLs were tested on MySQL database.
 
+All files are in UTF-8 encoding.
 
